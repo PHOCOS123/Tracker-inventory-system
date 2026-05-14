@@ -1,2 +1,10 @@
-# Twenego
-An ording food app for both andriod and IOS Systems
+# Inventory Tracker
+#For an inventory tracker, you’ll probably create:
+
+Products
+Categories
+Suppliers
+Stock movement
+Sales
+Users
+Dashboard
